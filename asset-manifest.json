@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Reactavatar/static/css/main.23498218.chunk.css",
+    "main.js": "/Reactavatar/static/js/main.3a0ab741.chunk.js",
+    "main.js.map": "/Reactavatar/static/js/main.3a0ab741.chunk.js.map",
+    "runtime-main.js": "/Reactavatar/static/js/runtime-main.4cfb5dc1.js",
+    "runtime-main.js.map": "/Reactavatar/static/js/runtime-main.4cfb5dc1.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Reactavatar/static/css/2.fe359a49.chunk.css",
+    "static/js/2.c3a32481.chunk.js": "/Reactavatar/static/js/2.c3a32481.chunk.js",
+    "static/js/2.c3a32481.chunk.js.map": "/Reactavatar/static/js/2.c3a32481.chunk.js.map",
+    "static/js/3.25cd29ed.chunk.js": "/Reactavatar/static/js/3.25cd29ed.chunk.js",
+    "static/js/3.25cd29ed.chunk.js.map": "/Reactavatar/static/js/3.25cd29ed.chunk.js.map",
+    "index.html": "/Reactavatar/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Reactavatar/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.23498218.chunk.css.map": "/Reactavatar/static/css/main.23498218.chunk.css.map",
+    "static/js/2.c3a32481.chunk.js.LICENSE.txt": "/Reactavatar/static/js/2.c3a32481.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Reactavatar/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cfb5dc1.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.c3a32481.chunk.js",
+    "static/css/main.23498218.chunk.css",
+    "static/js/main.3a0ab741.chunk.js"
+  ]
+}
